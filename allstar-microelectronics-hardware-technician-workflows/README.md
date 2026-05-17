@@ -1,4 +1,4 @@
-# Allstar Microelectronics – Hardware Technician Workflows & Documentation
+# Allstar Microelectronics – Computer Technician Workflows & Documentation
 
 **Professional production documentation created and maintained while working as a Computer Technician at Allstar Microelectronics.**
 
