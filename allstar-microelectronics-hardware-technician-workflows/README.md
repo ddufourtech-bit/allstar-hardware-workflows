@@ -15,7 +15,6 @@ This repository contains the internal technical knowledge base I built and conti
 
 | Section                  | Description |
 |--------------------------|-----------|
-| **`archives/`**          | Legacy overview files from earlier versions of the documentation |
 | **`build-procedures/`**  | Standardized LEGO, Tower, and Server build procedures + specific high-end builds |
 | **`checklists/`**        | Reusable checklists for new devices, post-change verification, etc. |
 | **`evidence/`**          | Redacted original RMA forms, raw notes, and build photos<br>**Note:** ASUS PRO, MSI Godlike, and SlimSAS evidence each have their own subfolder with a dedicated README.md |
