@@ -1,6 +1,6 @@
-# Allstar Microelectronics – Hardware Technician Workflows & Documentation
+# Allstar Microelectronics – Computer Technician Workflows & Documentation
 
-**Professional production documentation created and maintained while working as a Hardware Technician at Allstar Microelectronics.**
+**Professional production documentation created and maintained while working as a Computer Technician at Allstar Microelectronics.**
 
 This repository contains the internal technical knowledge base I built and continuously improved for server build processes, troubleshooting, RMA handling, and daily hardware operations.
 
