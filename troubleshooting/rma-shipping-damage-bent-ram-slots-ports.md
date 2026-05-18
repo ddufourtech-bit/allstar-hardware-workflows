@@ -23,5 +23,3 @@ Shipping damage
 
 ## Lessons Learned
 - Document RAM slot and port damage separately — these are common hidden issues in shipping claims
-
-**Evidence:** Close-up photos of bent DIMM slots and ports (in evidence/ folder)
