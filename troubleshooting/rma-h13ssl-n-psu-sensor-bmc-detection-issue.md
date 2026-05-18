@@ -25,5 +25,3 @@ Outdated BMC / BIOS firmware
 
 ## Lessons Learned
 - Firmware updates often resolve intermittent sensor/BMC detection issues before hardware replacement
-
-**Evidence:** 5005168-10 and 5005168-20 RMA forms (in evidence/ folder)
