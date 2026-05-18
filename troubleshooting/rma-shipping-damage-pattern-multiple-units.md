@@ -21,5 +21,3 @@ Single shipment packaged improperly (units upside-down / insufficient padding)
 
 ## Lessons Learned
 - When multiple identical boards show the same damage, treat as shipment-wide issue and include pattern summary in RMA
-
-**Evidence:** Batch photos from 5005177 series and additional images
