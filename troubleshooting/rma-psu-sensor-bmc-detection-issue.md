@@ -27,7 +27,6 @@ Firmware and BIOS update resolved detection on both ports. System passed Memtest
 - When sensor issues survive multiple hardware swaps, always check firmware/BIOS versions before further RMA.
 - Document exact firmware versions before and after updates.
 
-**Evidence:** See `evidence/rma-5005168-10.pdf`
 
 **Status:** Closed  
 **Last Updated:** May 16, 2026
