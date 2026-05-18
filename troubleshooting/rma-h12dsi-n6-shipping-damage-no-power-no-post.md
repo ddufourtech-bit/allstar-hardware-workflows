@@ -30,5 +30,3 @@ Severe shipping damage during transit (packaged upside-down / improper handling)
 - Always photograph incoming boards immediately and before any power-on attempt
 - Never attempt to power a board with visible chipset or slot damage
 - Shipping damage claims require clear photographic evidence of U6/U11 area
-
-**Evidence:** Photos of damaged U6/U11, bent ports, RAM slots (in evidence/ folder)
