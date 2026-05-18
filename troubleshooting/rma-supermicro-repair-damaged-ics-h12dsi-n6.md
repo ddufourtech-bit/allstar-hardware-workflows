@@ -1,4 +1,4 @@
-# RMA: Supermicro Vendor Repair – Damaged ICs on H12DSi-N6
+RMA: Supermicro Vendor Repair – Damaged ICs on H12DSi-N6
 
 **Status:** Resolved (Repaired & Returned)  
 **Date:** March–April 2025  
@@ -30,5 +30,3 @@ Physical damage to critical chipset ICs (likely from shipping or handling)
 ## Lessons Learned
 - Component-level repair on H12DSi-N6 is viable when damage is limited to U6/U11 area
 - Always request firmware updates during vendor RMA
-
-**Evidence:** Supermicro Repair Report RI250304049 series (in evidence/ folder)
