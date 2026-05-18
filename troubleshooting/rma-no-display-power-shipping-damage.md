@@ -27,7 +27,5 @@ Motherboard RMA'd to Supermicro on 2025-07-02. Remaining components scheduled fo
 - Bent connectors + chipped PCB edges are strong indicators of board-level failure.
 - Test with alternate display output before declaring display failure.
 
-**Evidence:** See `evidence/rma-5005177.pdf`
-
 **Status:** Closed  
 **Last Updated:** May 16, 2026
