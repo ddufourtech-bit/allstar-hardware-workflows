@@ -26,5 +26,3 @@ Redriver timing instability on hybrid SlimSAS path when used with SATA HDD boot 
 
 ## Lessons Learned
 - Never use hybrid NVMe/SATA SlimSAS ports for SATA HDD boot drives on this platform
-
-**Evidence:** Linux boot logs and dmesg output (in evidence/ folder)
